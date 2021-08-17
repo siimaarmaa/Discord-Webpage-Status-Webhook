@@ -1,4 +1,4 @@
-# Discord-Webpage-Status-Webhook
+# Discord Webpage Status Webhook
 
 Create home folder your status.sh file
 
